@@ -1,2 +1,5 @@
-.coro
+coro
+arg_test
+arg_test_x86
+*.S
 .vscode
